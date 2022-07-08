@@ -19,6 +19,10 @@
 - `:wq` es para guardar el archivo y salir del editor de texto.
 - `g`+`d` lo utilizo para ver la definición de una función en mi código. `g`+`f` lo utilizo para ver la definición de la función pero en otro archivo.
 - Respecto al movimiento del cursor entre las definiciones de funciones en el mismo código y en otros archivos, puedo utilizar los comandos `CTRL`+`o` para moverme hacia atrás en el historial y `CTRL`+`i` para moverme hacia adelante.
+- Cuando se está en el modo **normal** se puede eliminar texto apretando las teclas `d`+`w`. Se va eliminando texto como si se apretara la tecla `SUPR`.
+- Ppara deshacer algo que hice, apretar en modo **normal** la tecla `u` (de *undo* en inglés).
+- A diferencia del comando anterior, para rehacer se debe teclear `CTRL`+`r`.
+- `d`+`$` elimina todo el texto que está a la derecha del cursor. Si el cursor está al principio de la línea, borra todo el texto sin borrar la línea.
 
 ## Notas
 
